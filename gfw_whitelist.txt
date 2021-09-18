@@ -259,6 +259,7 @@
 ||getfedora.org
 ||getui.com
 ||gfan.com
+||gifshow.com
 ||gitee.com
 ||gmw.cn
 ||golaravel.com
